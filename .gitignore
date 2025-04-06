@@ -1,0 +1,12 @@
+History/
+*/History/
+*.~*
+__Previews/
+*.SchDocPreview
+*.txt
+*.html
+*.xlsx
+*.zip
+
+**/Project Logs for*/
+**/Project Outputs for*/
